@@ -4,6 +4,12 @@ hands_on_cv/
 # Model files (large binary files)
 *.pt
 
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
 # Generated outputs
 runs/
 
